@@ -6,13 +6,7 @@
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pawanpatidar21&label=Profile%20views&color=0e75b6&style=flat" alt="pawanpatidar21" /> </p>
 
-<div align="center">
-   <p>  - 🌱 I’m currently learning MERN Full Stack Development</p>
-  
-   <p>  - 💬 Ask me about React, JavaScript, Redux , DS-Algo</p>
-   <p> - 📫 How to reach me pawanpatidar21@gmail.com</p>
-   <p> - 💬 Ask me about React, JavaScript, Redux , DS-Algo</p>
-   <p> - 📫 How to reach me pawanpatidar21@gmail.com</p>
+
 
 
 
